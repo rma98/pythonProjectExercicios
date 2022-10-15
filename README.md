@@ -1,5 +1,5 @@
-# Problemas e Resoluções de Exercícios na Liguangem Python
+# Problemas e Resoluções de Exercícios na Linguagem Python
 
-## Aqui você irá encontrar diversos exercícios resolvidos na Linguamgem Python com os demais variados assuntos de Lógica de Programação.
+## Aqui você irá encontrar diversos exercícios resolvidos na Linguagem Python com os demais variados assuntos de Lógica de Programação.
 
-. Estrtutras Sequênciais
+* **Estrtutras Sequênciais**
