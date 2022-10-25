@@ -13,3 +13,8 @@ print(f'{valor_em_metros}m convertido em centímetros: {valor_em_metros * 100:.0
       f'\n{valor_em_metros}m convertido em hectômetros: {valor_em_metros / 100}hm'
       f'\n{valor_em_metros}m convertido em decâmetros: {valor_em_metros / 10}dam'
       f'\n{valor_em_metros}m convertido em decímetros: {valor_em_metros * 10}dm')
+
+# Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+
+temp = float(input('Temperatura em graus ºC: '))
+print(f'A temperatura {temp}ºC convertida em graus Fahrenheit: {(temp * 9/5) +32}ºF')
