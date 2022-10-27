@@ -7,6 +7,7 @@
 
 * **Estrtutras Sequênciais**
 * **Estruturas Condicionais**
+* **Estruturas de Repetição e Listas**
 
 ## Bônus - Meus Projetos
 
