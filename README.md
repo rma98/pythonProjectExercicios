@@ -8,6 +8,7 @@
 * **Estrtutras Sequênciais**
 * **Estruturas Condicionais**
 * **Estruturas de Repetição e Listas**
+* **Coleções**
 
 ## Bônus - Meus Projetos
 
