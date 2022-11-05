@@ -9,6 +9,7 @@
 * **Estruturas Condicionais**
 * **Estruturas de Repetição e Listas**
 * **Coleções**
+* **Funções**
 
 ## Bônus - Meus Projetos
 
