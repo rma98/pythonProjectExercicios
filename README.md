@@ -10,6 +10,7 @@
 * **Estruturas de Repetição e Listas**
 * **Coleções**
 * **Funções**
+* **Modularização**
 
 ## Bônus - Meus Projetos
 
