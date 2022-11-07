@@ -11,6 +11,7 @@
 * **Coleções**
 * **Funções**
 * **Modularização**
+* **Tratamento de Erros**
 
 ## Bônus - Meus Projetos
 
